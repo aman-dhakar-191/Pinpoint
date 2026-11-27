@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- A map pin, inside the adaptive icon's safe zone. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 C44.06,30 36,38.06 36,48 C36,61.5 54,80 54,80 C54,80 72,61.5 72,48 C72,38.06 63.94,30 54,30 Z" />
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M54,41 A7,7 0 1,1 53.99,41 Z" />
+</vector>
