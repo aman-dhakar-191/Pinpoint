@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pinpoint</string>
+    <string name="missing_key_title">No Maps API key in this build</string>
+    <string name="missing_key_body">The map stays blank until the app is built with a Google Maps API key. See the README: add MAPS_API_KEY to local.properties, or as a repository secret for releases.</string>
+</resources>
